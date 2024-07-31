@@ -4,7 +4,7 @@
 
 ## Question 1
 
-**Suggested Time:** 10 mins
+**Expected Time:** 10 mins
 
 **Lines of Code:** 5-10
 
@@ -30,7 +30,7 @@
 
 ## Question 2
 
-**Suggested Time:** 15 mins
+**Expected Time:** 15 mins
 
 **Lines of Code:** 10-20 
 
@@ -95,7 +95,7 @@
 
 ## Question 4
 
-**Expected Time:**  30 mins
+**Expected Time:** 30 mins
 
 **Lines of Code:** 25-35
 
