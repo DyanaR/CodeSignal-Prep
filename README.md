@@ -35,7 +35,6 @@
 **Lines of Code:** 10-20 
 
 **Expected Knowledge:**
-
 * Working with numbers, including
   + Basic operations with numbers
   + Splitting numbers into digits
@@ -71,7 +70,6 @@
 **Lines of Code:** 25-40
 
 **Expected Knowledge:**
-
 * Includes everything from question 1 and question 2
 * Splitting overall requirements into subtasks or functions
 * Manipulating multidimensional arrays, for example:
@@ -100,7 +98,6 @@
 **Lines of Code:** 25-35
 
 **Expected Knowledge:**
-
 * Includes everything from question 1, question 2, and question 3
 * Implementing common algorithms to optimize solutions, such as greedy, divide and conquer, and two pointers
 * Implementing abstract data types such as hashmaps within solutions
