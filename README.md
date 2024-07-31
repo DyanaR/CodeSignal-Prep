@@ -7,9 +7,9 @@ Suggested Time: 10 mins
 Lines of Code: 5-10
 **Expected knowledge**
 * Working with numbers.
-+ Basic operations with numbers.
+  + Basic operations with numbers.
 * Basic string manipulation
-+ Splitting a string into substrings.
-+ Modifying the elements of a string.
+  + Splitting a string into substrings.
+  + Modifying the elements of a string.
 * Basic array manipulation
-+ Iterating over an array.
+  + Iterating over an array.
