@@ -4,7 +4,7 @@
 
 ## Question 1
 
-**Expected Time:** 10 mins
+Expected Time: 10 mins
 
 **Lines of Code:** 5-10
 
