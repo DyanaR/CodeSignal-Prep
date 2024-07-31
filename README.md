@@ -17,7 +17,7 @@ Lines of Code: 5-10
 * Basic array manipulation
   + Iterating over an array.
 
-** Leecode Problems:**
+**Leetcode Problems:**
 * [Two Sum](https://leetcode.com/problems/two-sum/description/)
 * [Add Digits](https://leetcode.com/problems/add-digits/description/)
 * [Reverse String](https://leetcode.com/problems/reverse-string/)
