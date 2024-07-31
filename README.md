@@ -9,6 +9,7 @@
 **Lines of Code:** 5-10
 
 **Expected knowledge:**
+
 * Working with numbers.
   + Basic operations with numbers.
 * Basic string manipulation
