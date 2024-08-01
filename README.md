@@ -22,7 +22,7 @@
 * [Two Sum](https://leetcode.com/problems/two-sum/description/)
 * [Add Digits](https://leetcode.com/problems/add-digits/description/)
 * [Reverse String](https://leetcode.com/problems/reverse-string/)
-* [Valid Palindrome](https://leetcode.com/problems/reverse-string/)
+* [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 * [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 * [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 * [To Lower Case](https://leetcode.com/problems/to-lower-case/description/)
