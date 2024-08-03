@@ -81,7 +81,7 @@
 
 **Leetcode Problems:**
 * [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-* [Spiral Matrix 2](https://leetcode.com/problems/spiral-matrix/)
+* [Spiral Matrix 2](https://leetcode.com/problems/spiral-matrix-ii/description/)
 * [Rotate Image](https://leetcode.com/problems/rotate-image/)
 * [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
 * [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
